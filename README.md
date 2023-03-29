@@ -1,1 +1,1 @@
-# bitcoin-wallet
+# Criando uma carteira Bitcoin com JavaScript
